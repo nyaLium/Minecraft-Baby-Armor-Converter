@@ -1,6 +1,8 @@
 # Minecraft-Baby-Armor-Converter
 Generate baby armor textures from normal armor textures
 
+中文说明：[README-CN.md](README-CN.md)
+
 ## Features
 
 - Two adult textures → one baby texture: `humanoid` + `humanoid_leggings` → `humanoid_baby`
